@@ -1,3 +1,6 @@
 body {
 background-color: lightblue;
 }
+.dinosaur {
+   border: 3px solid green;
+}
