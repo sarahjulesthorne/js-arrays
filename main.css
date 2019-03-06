@@ -4,3 +4,18 @@ background-color: lightblue;
 .dinosaur {
    border: 3px solid green;
 }
+.card {
+   border: 3px solid purple;
+   background-color: lightgreen;
+   text-align: center;
+   padding: 15px;
+}
+.title {
+   width: 100%;
+   background-color: lightgray;
+   border-bottom: 3px solid darkgray;
+   padding: 10px;
+}
+.due-date {
+   font-weight: bold;
+}
